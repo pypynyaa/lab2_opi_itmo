@@ -1,4 +1,4 @@
-public class D implements A, E, B {
+public class D extends null implements A, E, B {
 
     private String f = "init";
 
@@ -50,5 +50,9 @@ public class D implements A, E, B {
 
     public void aa() {
         System.out.println("Hello world!");
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 }
