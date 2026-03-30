@@ -39,4 +39,8 @@ public class D implements A, E, B {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }
