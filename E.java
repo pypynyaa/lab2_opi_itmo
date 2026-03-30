@@ -7,4 +7,8 @@ public class E extends null {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public int af() {
+        return -1;
+    }
 }

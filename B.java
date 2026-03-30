@@ -7,4 +7,8 @@ public class B extends null {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public int ae() {
+        return 9;
+    }
 }

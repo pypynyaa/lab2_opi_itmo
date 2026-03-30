@@ -7,4 +7,8 @@ public class A extends null {
     public int af() {
         return -1;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
