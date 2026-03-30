@@ -43,4 +43,8 @@ public class D implements A, E, B {
     public double ee() {
         return 100.500;
     }
+
+    public int cc() {
+        return 13;
+    }
 }
