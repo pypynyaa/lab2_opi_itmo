@@ -47,4 +47,8 @@ public class D implements A, E, B {
     public int cc() {
         return 13;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
