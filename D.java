@@ -55,4 +55,8 @@ public class D extends null implements A, E, B {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }
