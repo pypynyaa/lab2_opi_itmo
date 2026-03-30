@@ -35,4 +35,8 @@ public class D implements A, E, B {
     public long ac() {
         return 111;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
